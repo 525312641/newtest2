@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Home2213asdas我要d</router-link> |
+      <router-link to="/">Home2213asdas我要杀人d</router-link> |
       <router-link to="/about">About<git/router-link>
     </nav>
     <router-view/>
