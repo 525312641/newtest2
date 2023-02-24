@@ -5,7 +5,7 @@ import store from './store'
 
 Vue.config.productionTip = true
 
-console.log('test22')
+console.log('t2222est22')
 
 new Vue({
   router,
