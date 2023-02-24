@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Home2213asdas我要我要杀人杀人d</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">你爸爸</router-link> |
+      <router-link to="/about">你妈妈</router-link>
     </nav>
     <router-view/>
   </div>
